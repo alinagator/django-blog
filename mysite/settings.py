@@ -25,7 +25,7 @@ SECRET_KEY = 'v5q6f#p@-a=%c9^lv(!)s7#n+7)3w=xy$nnl)_xk88_9w3+%e1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'alinagator.pythonanywhere.com']
 
 # Application definition
 
